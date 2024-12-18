@@ -1,0 +1,12 @@
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360c:a27d:f830:b48b:4d9d:6756): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 187
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 188
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 189
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 190
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 191
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 340
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 341
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 342
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 343
+[18-Oct-2024 05:17:29 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/includes/inner-footer.php on line 344

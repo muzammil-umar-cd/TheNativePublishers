@@ -1,0 +1,16 @@
+[07-May-2024 13:00:25 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:03:17 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:03:25 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:03:42 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:03:57 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:05:45 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[07-May-2024 13:07:35 America/New_York] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[22-Aug-2024 00:12:43 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 120
+[02-Sep-2024 22:02:03 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 122
+[03-Sep-2024 20:53:03 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 123
+[13-Sep-2024 15:09:31 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 129
+[13-Sep-2024 15:09:34 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 129
+[19-Sep-2024 20:11:30 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 129
+[01-Oct-2024 15:15:02 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 129
+[01-Oct-2024 21:49:49 UTC] PHP Warning:  Undefined variable $service in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 129
+[01-Oct-2024 21:49:50 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/thenativepublish/public_html/ghostwriting-service/sendmail/sendmail.php on line 206

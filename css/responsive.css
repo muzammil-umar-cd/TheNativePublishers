@@ -1,0 +1,423 @@
+@media (min-width: 767px){
+    .mobile-btn
+    {
+        display: none !important;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1440px){
+    .story-heading {
+        text-align: left;
+        margin-bottom: 40px;
+        margin-left: 38px;
+    }
+}
+@media (min-width: 767px) and (max-width: 1024px){
+    .back-img:before {
+        content: url(../images/banner-mid.png) !important;
+        background-repeat: no-repeat;
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        left: -250px;
+        margin: 0 auto !important;
+        right: 0;
+        top: 130px;
+        text-align: center;
+    }
+    section.best-seller .back-seller {
+        background-image: url(../images/girl-image.png) !important;
+        background-blend-mode: overlay;
+        background: #0000008f;
+    }
+    .seller-heading h2 {
+        font-size: 25px;
+    }
+    section.main-banner img
+    {
+        width: 100%;
+    }
+    .seller-head h2 {
+        font-size: 27px;
+    }
+    .services-head
+    {
+        padding: 50px 0;
+        text-align: center;
+    }
+    .services-head h1 {
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .services-head .seller-list li {
+        font-size: 16px;
+    }
+    .process .row
+    {
+        padding: unset;
+    }
+    section.story:before
+    {
+        display: none;
+    }
+    button#dropdownMenuButton1
+    {
+        display: none;
+    }
+    section.story .tab
+    {
+        padding: 6px 20px;
+        font-size: 15px;
+    }
+    .testimonial
+    {
+        display: none;
+    }
+
+    section.footer-form {
+        padding: 80px 0 130px;
+    }
+}
+@media (min-width: 767px) and (max-width: 900px){
+    section.footer-form {
+        padding: 80px 0 130px;
+    }
+    .bannerFormBox
+    {
+        display: none;
+    }
+    .follow-process
+    {
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px){
+    .logo {
+        text-align: center;
+    }
+    .nmb-cht {
+        display: none;
+    }
+    .main-banner-heading hr
+    {
+        margin: auto;
+    }
+    .main-banner-btn .right
+    {
+         margin: unset;
+        width: 100%;
+        background: #ebb300;
+    }
+    .main-banner-btn .left
+    {
+        width: 100%;
+        background: #ebb300;
+    }
+    section.main-banner{
+    height: auto !important;
+    position: relative;
+    padding: 160px 0 90px;
+    }
+    .banner-heading h1
+    {
+        font-size: 32px;
+        text-align: center;
+        line-height: 38px;
+    }
+    /*service section start*/
+    section.services {
+        background: #f5c93d;
+        padding: unset;
+    }
+    .services-head .seller-list li i
+    {
+        display: none;
+    }
+    .service-btn {
+        display: block;
+    }
+    .service-btn .left a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .service-btn .right a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 5px 0;
+    }
+    .services img {
+        width: 100%;
+        height: auto;
+        margin: unset;
+        padding-bottom: 22px;
+    }
+
+
+    /*Process Start*/
+
+    section.process {
+        /*padding: 80px 0;*/
+        margin: unset;
+        width: 100%;
+        background: #4c466f;
+    }
+    .process-heading
+    {
+        margin: unset;
+    }
+    .process-step
+    {
+        padding: unset;
+        margin: 22px 0;
+    }
+    .process .row
+    {
+        padding: unset;
+    }
+    .process-step h2 {
+        text-align: center;
+        margin: unset;
+    }
+    .process-step span {
+        text-align: center;
+    }
+    .process-step p {
+        text-align: center;
+        width: 100%;
+
+    }
+
+    section.story:before
+    {
+        display: none;
+    }
+
+    section.main-banner img
+    {
+        display: none;
+    }
+
+    section.story .tabs
+    {
+        display: inline-block;
+        padding: unset;
+        text-align: center;
+    }
+    section.story .tab {
+        padding: 3px 28px;
+        background: #e4e9ed;
+        width: auto;
+        margin: 5px;
+        display: inline-block;
+    }
+
+    .best-seller-heading h2 {
+        font-size: 18px;
+    }
+    .best-seller-heading h4 {
+        font-size: 20px;
+    }
+
+
+    .seller-btn
+    {
+        display: block;
+    }
+    .seller-btn .p-s-l {
+        Text-align: center;
+    }
+    .seller-btn .p-s-r {
+        Text-align: center;
+        margin-top: 15px;
+    }
+
+
+    .service-heading h2 {
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .service-heading P {
+        FONT-SIZE: 15px;
+        color: #f3c20f;
+    }
+
+    .border-line
+    {
+        border: unset;
+    }
+
+    .portfolio-heading h3 {
+        font-size: 18px;
+    }
+    .portfolio-heading p {
+        font-size: 12px;
+    }
+
+    .next-seller-heading h2 {
+        color: #000;
+        font-size: 14px;
+    }
+    .next-seller-heading h4 {
+        color: #000;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .next-seller-btn{
+        display: block;
+    }
+    .next-seller-btn .p-s-l
+    {
+        text-align: center;
+    }
+    .next-seller-btn .p-s-r
+    {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .footer_client_wrap {
+        background: #fff;
+        /* padding: 30px 0 220px; */
+        text-align: center;
+    }
+    /*section.footer-form*/
+    /*{*/
+    /*    padding: unset;*/
+    /*}*/
+    section.footer-form .form-cont {
+        width: 90%;
+        margin: auto;
+        background: linear-gradient(
+            45deg
+            , #6b60a3, #2d2947);
+        padding: 20px;
+        border-top: 6px solid #fcc100;
+        /* position: absolute; */
+        /* left: 0; */
+        /* right: 0; */
+        /* top: -188px; */
+    }
+    section.footer-form {
+        padding: 80px 0 280px;
+        position: relative;
+    }
+    h1.head-series
+    {
+        margin: unset;
+    }
+    .testimonial {
+        display: none;
+    }
+    section.main-banner video {
+        display: none;
+    }
+    .seller-btn .btn {
+        display: block;
+        margin: auto;
+        width: 200px;
+    }
+    .next-seller-btn .btn
+    {
+        display: block;
+        margin: auto;
+        width: 200px;
+    }
+    /*section.story*/
+    /*{*/
+    /*    display: none;*/
+    /*}*/
+    .footer-bottom-left h6 {
+        text-align: center;
+    }
+    .footer-bottom-right {
+         float: unset;
+        text-align: center;
+    }
+    .form-fotter
+    {
+        display: none;
+    }
+
+    section.best-seller .back-seller {
+        /*background-image: url(../images/girl-image.png) !important;*/
+        background: none;
+        background-blend-mode: overlay;
+        background: #0000008f;
+        height: 600px;
+    }
+    .seller-image img
+    {
+        bottom: 0;
+        height: 200px;
+        width: 200px;
+        justify-content: center;
+        display: flex;
+    }
+    section.story .tab-content
+    {
+        margin: unset;
+    }
+    .books {
+        width: 100%;
+        margin: auto;
+    }
+    .skip{
+        display: none;
+    }
+    .story-heading
+    {
+        margin-top: 12px;
+    }
+    .story-heading h1
+    {
+        font-size: 22px;
+        text-align: center;
+        line-height: 27px;
+    }
+    .story-heading h3 {
+        text-align: center;
+        font-size: 15px;
+        margin-bottom: unset;
+    }
+    .services-head h2
+    {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 25px;
+        margin-bottom: unset;
+    }
+    .story-heading p
+    {
+        text-align: center;
+        font-size: 14px;
+    }
+    .row.uper-space {
+        margin: 20px 1px;
+    }
+    button#dropdownMenuButton1
+    {
+        display: none;
+    }
+    img.shelf
+    {
+        display: none;
+    }
+    .desk-btn
+    {
+        display: none !important;
+    }
+}
+@media (max-width: 320px){
+    section.best-seller span
+    {
+        font-size: 34px;
+    }
+    .seller-heading h2 {
+        font-size: 29px;
+    }
+
+}

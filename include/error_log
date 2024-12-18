@@ -1,0 +1,72 @@
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 32
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 38
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 85
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 86
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 86
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[07-Nov-2023 09:59:05 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 91
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 32
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 38
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 85
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 86
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 86
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[19-Nov-2023 23:06:02 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 91
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 32
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 33
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 34
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 35
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 36
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 37
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 38
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $ip in /home/thenativepublish/public_html/include/footer-lp2.php on line 86
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 87
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 88
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 89
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 90
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $locationData in /home/thenativepublish/public_html/include/footer-lp2.php on line 91
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/include/footer-lp2.php on line 91
+[24-Nov-2023 21:43:24 America/New_York] PHP Warning:  Undefined variable $currentFullURL in /home/thenativepublish/public_html/include/footer-lp2.php on line 92

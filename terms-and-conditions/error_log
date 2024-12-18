@@ -1,0 +1,52 @@
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360c:a27d:f830:b48b:4d9d:6756): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Oct-2024 05:17:28 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360c:a27d:f830:b48b:4d9d:6756): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Oct-2024 05:18:27 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360c:a27d:f830:b48b:4d9d:6756): Failed to open stream: HTTP request failed! in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Oct-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360b:5828:7860:a3a0:94b:3496): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Nov-2024 06:41:13 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360b:5828:7860:a3a0:94b:3496): Failed to open stream: HTTP request failed! in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360b:5828:7860:a3a0:94b:3496): Failed to open stream: HTTP request failed! in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Nov-2024 06:42:13 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/2a06:98c0:360b:8ab8:4bfe:422f:d0b7:895f): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Dec-2024 06:40:15 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/172.70.3.25): Failed to open stream: HTTP request failed! in /home/thenativepublish/public_html/includes/config.php on line 8
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  Attempt to read property "city" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 210
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  Attempt to read property "country" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 211
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  Attempt to read property "isp" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 212
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  Attempt to read property "zip" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 213
+[18-Dec-2024 06:42:11 UTC] PHP Warning:  Attempt to read property "regionName" on null in /home/thenativepublish/public_html/terms-and-conditions/index.php on line 214
