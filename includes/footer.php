@@ -361,10 +361,11 @@
             </div>
             <div class="pop-inner">
 
-                <h2 class="text-center">Get a Free Quote!</h2>
-                <p class="text-center">Discuss your book idea with our consultants and we'll help you
+                <h2 class="text-center" style="font-size: 18px;line-height: 27px;">Start Your The Native Publishers Registration and
+                Get Your <span class="d-block primary-color"> 50% Discount! </span></h2>
+                <!-- <p class="text-center">Discuss your book idea with our consultants and we'll help you
                     transform them to multi-million dollar reality. <span>It's
-                        Free!</span></p>
+                        Free!</span></p> -->
                 <form action="/sendmail/sendmail.php" method="post" class="validate-popupform" id="pop-form" novalidate="novalidate">
                     <!--hidden required values-->
                     <input type="hidden" name="ip_address" value="<?php echo $ip; ?>" />
