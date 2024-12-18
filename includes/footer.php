@@ -414,6 +414,14 @@
 <!-- End of designneshelp Zendesk Widget script -->
 <script type="text/javascript" src="assets/js/libs.js"></script>
 <script type="text/javascript" src="assets/js/functions.js"></script>
+
+<script>
+    $(document).ready(function() {
+        setTimeout(function() {
+            $('#pop-form').click();
+        }, 3000);
+    });
+</script>
 </body>
 
 </html>

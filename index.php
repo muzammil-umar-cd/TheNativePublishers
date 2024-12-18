@@ -14,7 +14,7 @@ include('includes/header.php')
                     Don't worry—this is exactly why <?php echo WEBSITE_NAME; ?> was created. We're here to help you become a <span>best-selling author in 2024!</span>
                 </p>
                 <div class="btn-block">
-                    <a href="javascript:" class="btn btn-blue various" data-fancybox data-src="#popupform">
+                    <a href="javascript:" class="btn btn-blue various" id="pop-form" data-fancybox data-src="#popupform">
                         <span>
                             Hire Author
                             <i class="fas fa-long-arrow-right"></i>
