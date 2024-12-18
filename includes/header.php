@@ -19,22 +19,57 @@ include('config.php');
     <link
         href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&amp;family=Poppins:wght@300;400;500;600;700&amp;display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Welcome to <?php echo WEBSITE_NAME; ?> - Get To Know Us!</title>
     <meta name="description"
         content="We welcome you to <?php echo WEBSITE_NAME; ?>, where your dream of writing a book comes true!">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+    <link rel="stylesheet" href="assets/css/christmas.css">
 </head>
 
 <body>
+    <div class="snowflakes" aria-hidden="true">
+        <div class="snowflake">
+            ❅
+        </div>
+        <div class="snowflake">
+            ❅
+        </div>
+        <div class="snowflake">
+            ❆
+        </div>
+        <div class="snowflake">
+            ❄
+        </div>
+        <div class="snowflake">
+            ❅
+        </div>
+        <div class="snowflake">
+            ❆
+        </div>
+        <div class="snowflake">
+            ❄
+        </div>
+        <div class="snowflake">
+            ❅
+        </div>
+        <div class="snowflake">
+            ❆
+        </div>
+        <div class="snowflake">
+            ❄
+        </div>
+    </div>
     <div class="home-header">
         <header>
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3">
                         <a href="/" class="logo">
-                            <img src="assets/images/logo.png" alt>
+                            <img src="assets/images/logo-christmas.png" alt>
                         </a>
                     </div>
                     <div class="col-md-9">

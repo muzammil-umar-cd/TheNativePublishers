@@ -35,8 +35,8 @@
                         </div>
                         <div class="card">
                             <div class="card-header" id="faqhead2">
-                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse"
-                                    data-target="#faq2" aria-expanded="true" aria-controls="faq2">Who will own
+                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
+                                    aria-expanded="true" aria-controls="faq2">Who will own
                                     the rights to my book?</a>
                             </div>
 
@@ -53,8 +53,8 @@
                         </div>
                         <div class="card">
                             <div class="card-header" id="faqhead3">
-                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse"
-                                    data-target="#faq3" aria-expanded="true" aria-controls="faq3">Can I trust you
+                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
+                                    aria-expanded="true" aria-controls="faq3">Can I trust you
                                     guys with my personal
                                     information?</a>
                             </div>
@@ -72,8 +72,8 @@
                         </div>
                         <div class="card">
                             <div class="card-header" id="faqhead4">
-                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse"
-                                    data-target="#faq4" aria-expanded="true" aria-controls="faq4">Do you have
+                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
+                                    aria-expanded="true" aria-controls="faq4">Do you have
                                     customer support available?</a>
                             </div>
                             <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
@@ -91,8 +91,8 @@
                         </div>
                         <div class="card">
                             <div class="card-header" id="faqhead5">
-                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse"
-                                    data-target="#faq5" aria-expanded="true" aria-controls="faq5">How long will
+                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
+                                    aria-expanded="true" aria-controls="faq5">How long will
                                     this project take?</a>
                             </div>
 
@@ -112,8 +112,8 @@
 
                         <div class="card">
                             <div class="card-header" id="faqhead6">
-                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse"
-                                    data-target="#faq6" aria-expanded="true" aria-controls="faq6">Can I get my
+                                <a href="#" class="btn-header-link collapsed" data-toggle="collapse" data-target="#faq6"
+                                    aria-expanded="true" aria-controls="faq6">Can I get my
                                     money back if I don’t like what I
                                     see?</a>
                             </div>
@@ -200,11 +200,12 @@
                                 placeholder="Email Address*">
                         </div>
                         <div class="col-md-4">
-                            <input type="tel" class="required form-control ftpn" required name="phone" minlength="10" maxlength="10" minlength="7"
-                                maxlength="14" placeholder="Phone Number*">
+                            <input type="tel" class="required form-control ftpn" required name="phone" minlength="10"
+                                maxlength="10" minlength="7" maxlength="14" placeholder="Phone Number*">
                         </div>
                         <div class="col-md-12">
-                            <textarea autocomplete="nope" name="message" class="form-control" placeholder="Enter Brief"></textarea>
+                            <textarea autocomplete="nope" name="message" class="form-control"
+                                placeholder="Enter Brief"></textarea>
                             <button type="submit" class="btn btn-yellow">
                                 <span>
                                     Submit
@@ -250,51 +251,73 @@
                 </p>
 
                 <ul class="social_link">
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="https://www.facebook.com/people/The-Native-Publishers/100090333660341/"><i class="fa fa-facebook"></i></a></li>
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="https://twitter.com/NativePub"><i class="fa fa-twitter"></i></a></li>
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="https://www.instagram.com/thenativepublishers/"><i class="fa fa-instagram"></i></a></li>
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="http://www.linkedin.com/company/the-native-publishers/" class="fa fa-linkedin"></a></li>
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="https://www.trustpilot.com/review/thenativepublishers.com"><img src="assets/images/tt-custom.png" style="margin-top: 3px !important;display: block;" /></a></li>
-                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank" href="https://www.sitejabber.com/reviews/thenativepublishers.com"><img src="assets/images/tt-custom2.png" style="margin-top: 3px !important;display: block;" /></a></li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="https://www.facebook.com/people/The-Native-Publishers/100090333660341/"><i
+                                class="fa fa-facebook"></i></a></li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="https://twitter.com/NativePub"><i class="fa fa-twitter"></i></a></li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="https://www.instagram.com/thenativepublishers/"><i class="fa fa-instagram"></i></a>
+                    </li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="http://www.linkedin.com/company/the-native-publishers/" class="fa fa-linkedin"></a>
+                    </li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="https://www.trustpilot.com/review/thenativepublishers.com"><img
+                                src="assets/images/tt-custom.png"
+                                style="margin-top: 3px !important;display: block;" /></a></li>
+                    <li style="margin: 0 10px;"><a style="font-size: 22px;" target="_blank"
+                            href="https://www.sitejabber.com/reviews/thenativepublishers.com"><img
+                                src="assets/images/tt-custom2.png"
+                                style="margin-top: 3px !important;display: block;" /></a></li>
                 </ul>
             </div>
             <div class="col-md-3 p-5">
                 <h3 class="text-light">Quick Links</h3>
                 <ul>
                     <li><a href="/about"><i style="color: #f27842;" class="fas fa-angle-right"></i> About Us</a></li>
-                    <li><a href="/contact.php"><i style="color: #f27842;" class="fas fa-angle-right"></i> Contact Us</a></li>
-                    <li><a href="/book-publishing.php"><i style="color: #f27842;" class="fas fa-angle-right"></i> Publishing</a></li>
+                    <li><a href="/contact.php"><i style="color: #f27842;" class="fas fa-angle-right"></i> Contact Us</a>
+                    </li>
+                    <li><a href="/book-publishing.php"><i style="color: #f27842;" class="fas fa-angle-right"></i>
+                            Publishing</a></li>
                     <li><a href="/book-marketing/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Marketing
                         </a></li>
-                    <li><a href="/packages/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Packages</a></li>
+                    <li><a href="/packages/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Packages</a>
+                    </li>
                     <li><a href="/faq/"><i style="color: #f27842;" class="fas fa-angle-right"></i> FAQ</a></li>
                 </ul>
             </div>
             <div class="col-md-3 p-5">
                 <h3 class="text-light">Services</h3>
                 <ul>
-                <li><a href="/editing/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Editing</a></li>
-                    <li><a href="/ghostwriting/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Ghostwriting</a></li>
+                    <li><a href="/editing/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Editing</a></li>
+                    <li><a href="/ghostwriting/"><i style="color: #f27842;" class="fas fa-angle-right"></i>
+                            Ghostwriting</a></li>
                     <li><a href="/cover-design/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Book
                             Cover</a></li>
-                    <li><a href="/audio-book/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Audio Book</a></li>
+                    <li><a href="/audio-book/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Audio Book</a>
+                    </li>
                     <li><a href="/author/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Author</a></li>
                     <li><a href="/book-writing.php"><i style="color: #f27842;" class="fas fa-angle-right"></i> Book
                             Writing</a></li>
-                    <li><a href="/proofreading/"><i style="color: #f27842;" class="fas fa-angle-right"></i> Proofreading</a></li>
+                    <li><a href="/proofreading/"><i style="color: #f27842;" class="fas fa-angle-right"></i>
+                            Proofreading</a></li>
                 </ul>
             </div>
             <div class="col-md-3 p-2">
-            <h3 class="text-light">Contact</h3>
+                <h3 class="text-light">Contact</h3>
                 <ul>
                     <li class="pt-2">
-                        <a style="font-size: 14px;" href="<?php echo PHONE_HREF; ?>"><i class="fas fa-phone" style="color: #f27842;"></i> <?php echo PHONE; ?></a>
+                        <a style="font-size: 14px;" href="<?php echo PHONE_HREF; ?>"><i class="fas fa-phone"
+                                style="color: #f27842;"></i> <?php echo PHONE; ?></a>
                     </li>
                     <li class="pt-2">
-                        <a style="font-size: 14px;" href="mailto:<?php echo ADMIN_EMAIL; ?>"><i class="fas fa-envelope" style="color: #f27842;"></i> <?php echo ADMIN_EMAIL; ?></a>
+                        <a style="font-size: 14px;" href="mailto:<?php echo ADMIN_EMAIL; ?>"><i class="fas fa-envelope"
+                                style="color: #f27842;"></i> <?php echo ADMIN_EMAIL; ?></a>
                     </li>
                     <li class="pt-2">
-                        <p style="font-size: 14px;" class="text-light"><i class="fas fa-map-marker-alt" style="color: #f27842;"></i> <?php echo ADDRESS; ?></p>
+                        <p style="font-size: 14px;" class="text-light"><i class="fas fa-map-marker-alt"
+                                style="color: #f27842;"></i> <?php echo ADDRESS; ?></p>
                     </li>
                     <li>
                         <img src="assets/images/payment-image.png" />
@@ -328,53 +351,66 @@
         </div>
     </div>
 </section>
+
+
 <div style="display: none;" class="popupform" id="popupform">
-    <h2>Get a Free Quote!</h2>
-    <p>Discuss your book idea with our consultants and we'll help you
-        transform them to multi-million dollar reality. <span>It's
-            Free!</span></p>
-    <form action="/sendmail/sendmail.php" method="post" class="validate-popupform"
-        novalidate="novalidate">
-        <!--hidden required values-->
-        <input type="hidden" name="ip_address" value="<?php echo $ip; ?>" />
-        <input type="hidden" name="city" value="<?php echo $locationData->city; ?>" />
-        <input type="hidden" name="country" value="<?php echo $locationData->country; ?>" />
-        <input type="hidden" name="internet_connection" value="<?php echo $locationData->isp; ?>" />
-        <input type="hidden" name="zipcode" value="<?php echo $locationData->zip; ?>" />
-        <input type="hidden" name="region" value="<?php echo $locationData->regionName; ?>" />
-        <input type="hidden" name="url" value="<?php echo $currentFullURL ?>" />
-        <ul>
-            <li class="first">
-                <i class="fa fa-user" aria-hidden="true"></i>
-                <input type="text" class="required" required placeholder="Full Name *" name="name"
-                    aria-required="true">
-            </li>
+    <div class="offer-popup-contain">
+        <div class="offer-inner">
+            <div class="santa">
+                <div class="santa-head"></div>
+            </div>
+            <div class="pop-inner">
 
-            <li>
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-                <input type="email" class="required email" required placeholder="Email Address *" name="email"
-                    aria-required="true">
-            </li>
+                <h2 class="text-center">Get a Free Quote!</h2>
+                <p>Discuss your book idea with our consultants and we'll help you
+                    transform them to multi-million dollar reality. <span>It's
+                        Free!</span></p>
+                <form action="/sendmail/sendmail.php" method="post" class="validate-popupform" id="pop-form" novalidate="novalidate">
+                    <!--hidden required values-->
+                    <input type="hidden" name="ip_address" value="<?php echo $ip; ?>" />
+                    <input type="hidden" name="city" value="<?php echo $locationData->city; ?>" />
+                    <input type="hidden" name="country" value="<?php echo $locationData->country; ?>" />
+                    <input type="hidden" name="internet_connection" value="<?php echo $locationData->isp; ?>" />
+                    <input type="hidden" name="zipcode" value="<?php echo $locationData->zip; ?>" />
+                    <input type="hidden" name="region" value="<?php echo $locationData->regionName; ?>" />
+                    <input type="hidden" name="url" value="<?php echo $currentFullURL ?>" />
+                    <ul>
+                        <li class="first">
+                            <i class="fa fa-user" aria-hidden="true"></i>
+                            <input type="text" class="required" required placeholder="Full Name *" name="name"
+                                aria-required="true">
+                        </li>
 
-            <li>
-                <i class="fa fa-phone" aria-hidden="true"></i>
-                <input type="text" class="required number" minlength="10" required placeholder="Phone No. *"
-                    name="phone" minlength="10" maxlength="10" aria-required="true">
-            </li>
+                        <li class="first">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <input type="email" class="required email" required placeholder="Email Address *"
+                                name="email" aria-required="true">
+                        </li>
 
-            <li>
-                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                <textarea name="message" class="" placeholder="Enter a  description "></textarea>
-            </li>
+                        <li class="first">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <input type="text" class="required number" minlength="10" required placeholder="Phone No. *"
+                                name="phone" minlength="10" maxlength="10" aria-required="true">
+                        </li>
 
-            <li>
-                <input type="submit" value="Submit">
-            </li>
-        </ul>
-    </form>
+                        <li class="first">
+                            <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+                            <textarea name="message" class="" placeholder="Enter a  description "></textarea>
+                        </li>
+
+                        <li class="first">
+                            <a class="ch-btn text-light" onclick="$('#pop-form').submit();">Submit</a>
+                        </li>
+                    </ul>
+                </form>
+                <button style="display: block !important;" type="button" data-fancybox-close class="fancybox-button fancybox-close-small" title="{{CLOSE}}"><svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 24 24"><path d="M13 12l5-5-1-1-5 5-5-5-1 1 5 5-5 5 1 1 5-5 5 5 1-1z"/></svg></button>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- Start of designneshelp Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6da4305e-ec20-4d26-87a7-f52f10e35132"> </script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6da4305e-ec20-4d26-87a7-f52f10e35132">
+</script>
 <!-- End of designneshelp Zendesk Widget script -->
 <script type="text/javascript" src="assets/js/libs.js"></script>
 <script type="text/javascript" src="assets/js/functions.js"></script>
