@@ -362,7 +362,7 @@
             <div class="pop-inner">
 
                 <h2 class="text-center">Get a Free Quote!</h2>
-                <p>Discuss your book idea with our consultants and we'll help you
+                <p class="text-center">Discuss your book idea with our consultants and we'll help you
                     transform them to multi-million dollar reality. <span>It's
                         Free!</span></p>
                 <form action="/sendmail/sendmail.php" method="post" class="validate-popupform" id="pop-form" novalidate="novalidate">
