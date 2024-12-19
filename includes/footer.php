@@ -400,7 +400,8 @@
                         </li>
 
                         <li class="first">
-                            <a class="ch-btn text-light" onclick="$('#pop-form').submit();">Submit</a>
+                            <a class="ch-btn text-light" id="submit-btn">Submit</a>
+                            <input type="submit" id='form-submit' style="display: none !important;" />
                         </li>
                     </ul>
                 </form>
@@ -415,7 +416,11 @@
 <!-- End of designneshelp Zendesk Widget script -->
 <script type="text/javascript" src="assets/js/libs.js"></script>
 <script type="text/javascript" src="assets/js/functions.js"></script>
-
+<script>
+	    $('#submit-btn').on('click', function(){
+	        $('#form-submit').click();
+	    })
+	</script>
 <script>
     $(document).ready(function() {
         setTimeout(function() {
