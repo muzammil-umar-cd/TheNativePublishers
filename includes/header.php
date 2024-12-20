@@ -28,6 +28,50 @@ include('config.php');
         content="We welcome you to <?php echo WEBSITE_NAME; ?>, where your dream of writing a book comes true!">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
     <link rel="stylesheet" href="assets/css/christmas.css">
+    
+	<style>
+		.offer img {
+			position: fixed;
+			z-index: 9;
+			bottom: 2%;
+			width: 170px;
+			left: 2%;
+		}
+
+		.bounce {
+			animation: bounce 1.5s ease infinite;
+		}
+
+		@keyframes bounce {
+			70% {
+				transform: translateY(0%);
+			}
+
+			80% {
+				transform: translateY(-15%);
+			}
+
+			90% {
+				transform: translateY(0%);
+			}
+
+			95% {
+				transform: translateY(-7%);
+			}
+
+			97% {
+				transform: translateY(0%);
+			}
+
+			99% {
+				transform: translateY(-3%);
+			}
+
+			100% {
+				transform: translateY(0);
+			}
+		}
+	</style>
 </head>
 
 <body>
@@ -63,6 +107,10 @@ include('config.php');
             ❄
         </div>
     </div>
+    <div class="offer">
+		<a href="javascript:;" class="various" id="pop-form" data-fancybox data-src="#popupform" role="button"><img class="bounce"
+				src="assets/images/christmas-sale.png" alt=""></a>
+	</div>
     <div class="home-header">
         <header>
             <div class="container-fluid">
